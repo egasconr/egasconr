@@ -1,4 +1,27 @@
-## Hi there 👋
+## ¡Hola! 👋 Soy Elisa
+
+### Bioinformatics Research
+
+Soy una biotecnóloga que ha reconducido su carrera hacia la informática, especializandome en Bioinformática. Actualmente estoy compaginando mi trabajo como investigadora pre-doctoral en Bioinformática con la formación del grado superior Desarrollo de Aplicaciones Multiplataforma.
+
+Puedes encontarme en:
+
+[LinkedIn](https://www.linkedin.com/in/elisa-gascon/)
+
+
+
+## Proyectos de mi Tesis Doctoral
+
+## <ins>Titulo:</ins> Integración de técnicas ómicas, Machine Learning y Big Data en la caracterización molecular de enfermedades neurodegenerativas
+
+### Paper 1: Sporadic Amyotrophic Lateral Sclerosis Skeletal Muscle Transcriptome Analysis: A Comprehensive Examination of Differentially Expressed Genes
+
+*Journal*: **Biomolecules** [Paper 1](https://www.mdpi.com/2218-273X/14/3/377)
+
+### Paper 2: Identifying Hub Genes and miRNAs Associated with Alzheimer’s Disease: A Bioinformatics Pathway to Novel Therapeutic Strategies
+
+*Journal*: **Biomolecules** [Paper 2](https://www.mdpi.com/2218-273X/14/12/1641)
+
 
 <!--
 **egasconr/egasconr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
