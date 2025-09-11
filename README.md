@@ -18,10 +18,13 @@ Puedes encontarme en:
 
 *Journal*: **Biomolecules** [Paper 1](https://www.mdpi.com/2218-273X/14/3/377)
 
+*Source Code*: [Repositorie](https://github.com/egasconr/SourceCode-Paper-1)
+
 ### Paper 2: Identifying Hub Genes and miRNAs Associated with Alzheimer’s Disease: A Bioinformatics Pathway to Novel Therapeutic Strategies
 
 *Journal*: **Biomolecules** [Paper 2](https://www.mdpi.com/2218-273X/14/12/1641)
 
+*Source Code*: [Repositorie](https://github.com/egasconr/SourceCode-Paper-2)
 
 <!--
 **egasconr/egasconr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
