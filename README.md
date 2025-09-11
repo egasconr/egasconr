@@ -12,7 +12,7 @@ Puedes encontarme en:
 
 ## Proyectos de mi Tesis Doctoral
 
-## <ins>Titulo:</ins> Integración de técnicas ómicas, Machine Learning y Big Data en la caracterización molecular de enfermedades neurodegenerativas
+## <ins>Titulo:</ins> Integration of omics techniques, Machine Learning and Big Data in the molecular characterisation of neurodegenerative diseases.
 
 ### Paper 1: Sporadic Amyotrophic Lateral Sclerosis Skeletal Muscle Transcriptome Analysis: A Comprehensive Examination of Differentially Expressed Genes
 
