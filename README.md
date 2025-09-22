@@ -2,7 +2,7 @@
 
 ### Bioinformatics Research
 
-Soy una biotecnóloga que ha reconducido su carrera hacia la informática, especializandome en Bioinformática. Actualmente estoy compaginando mi trabajo como investigadora pre-doctoral en Bioinformática con la formación del grado superior Desarrollo de Aplicaciones Multiplataforma.
+Soy una biotecnóloga que ha reconducido su carrera hacia la informática, especializandome en Bioinformática, Analisis de Datos e Inteligencia Artificial. Actualmente estoy compaginando mi trabajo como investigadora pre-doctoral en Bioinformática con la formación del grado superior Desarrollo de Aplicaciones Multiplataforma.
 
 Puedes encontarme en:
 
