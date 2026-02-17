@@ -26,6 +26,12 @@ Puedes encontarme en:
 
 *Source Code*: [Repositorie](https://github.com/egasconr/SourceCode-Paper-2)
 
+### Paper 3: Unveiling an ALS Blood Transcriptomic Signature: A Machine Learning Classifier Distinct from Neurodegenerative Controls 
+
+*Journal*: In process
+
+*Source Code*: In process
+
 <!--
 **egasconr/egasconr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
