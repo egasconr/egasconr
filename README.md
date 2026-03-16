@@ -30,7 +30,7 @@ Puedes encontarme en:
 
 *Journal*: In process
 
-*Source Code*: In process [Repositorie](https://github.com/egasconr/SourceCode-Paper-3)
+*Source Code*: [Repositorie](https://github.com/egasconr/SourceCode-Paper-3)
 
 <!--
 **egasconr/egasconr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
