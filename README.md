@@ -28,7 +28,7 @@ Puedes encontarme en:
 
 ### Paper 3: Unveiling an ALS Blood Transcriptomic Signature: A Machine Learning Classifier Distinct from Neurodegenerative Controls 
 
-*Journal*: In process
+*Journal*: [Paper 3](https://link.springer.com/article/10.1007/s12021-026-09780-7)
 
 *Source Code*: [Repositorie](https://github.com/egasconr/SourceCode-Paper-3)
 
